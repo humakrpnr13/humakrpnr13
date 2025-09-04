@@ -4,10 +4,10 @@
   <tbody>
     <tr>
       <td valign="top">
-        ### Contact Me
+        Contact Me
       </td>
       <td valign="top">
-        <img src="https://github.com/humakrpnr13/humakrpnr13/blob/main/readme.png?raw=true" alt="Only the paranoid survive" width="200">
+        <img src="https://github.com/humakrpnr13/humakrpnr13/blob/main/readme.png?raw=true" alt="Only the paranoid survive" width="300">
       </td>
     </tr>
   </tbody>
