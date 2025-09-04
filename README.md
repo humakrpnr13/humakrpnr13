@@ -6,14 +6,20 @@
       <td valign="top" width="50%">
         <h3>📡 SECURE COMMUNICATION CHANNELS</h3>
         **Primary Contacts:**
+        
         - 📧 **Email:** your.email@domain.com
         - 💼 **LinkedIn:**
         - 🐦 **Twitter:** 
         - 🌐 **Portfolio:**  
+        
         **Status:** 🟢 Available for Projects 
+        
         **Response Time:** Usually within 24 hours   
-        **Preferred Method:** Email for professional inquiries     
+        
+        **Preferred Method:** Email for professional inquiries    
+        
         ---   
+        
         *"The best way to find out if you can trust somebody is to trust them."*
       </td>
       <td valign="top" width="50%" align="center">
