@@ -1,4 +1,4 @@
-<table align="center" cellpadding="20">
+<table width="100%" cellpadding="20" cellspacing="0">
   <tr>
     <td valign="middle" width="50%">
       <h3>Get In Touch</h3>
