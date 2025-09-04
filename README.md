@@ -1,41 +1,21 @@
-<table align="center" border="0" cellpadding="15" cellspacing="0">
+<table align="center">
   <tbody>
     <tr>
-      <td valign="top" width="55%">
-        <h2>🔐 CONTACT PROTOCOL</h2>
+      <td valign="middle" width="60%">
+        <h3>Get In Touch</h3>
         
-        ```bash
-        # Initialize secure connection
-        ./contact_developer.sh --method=[email|linkedin|twitter]
-        ```
+        • **Email:** your.email@domain.com  
+        • **LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)  
+        • **Twitter:** [@yourusername](https://twitter.com/yourusername)  
+        • **Website:** [View Portfolio](https://yourwebsite.com)  
         
-        **Available Channels:**
+        <br>
         
-        📧 **Primary:** your.email@domain.com  
-        💼 **Professional:** [LinkedIn](https://linkedin.com/in/yourprofile)  
-        🐦 **Social:** [@yourusername](https://twitter.com/yourusername)  
-        🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-        
-        **Current Status:**
-        ```
-        [■■■■■■■■■■] 100% AVAILABLE
-        Response Time: < 24 hours
-        Collaboration: OPEN
-        ```
-        
-        **Interested in:**
-        - Full-stack development projects
-        - Open source contributions  
-        - Technical discussions
-        - Remote collaboration opportunities
+        💡 Always open to interesting projects and collaborations!
         
       </td>
-      <td valign="top" width="45%" align="center">
-        <img src="https://github.com/humakrpnr13/humakrpnr13/blob/main/readme.png?raw=true" alt="Only the paranoid survive" width="300">
-        <br>
-        <sub><em>"Only the paranoid survive"</em></sub>
-        <br><br>
-        <img src="https://komarev.com/ghpvc/?username=humakrpnr13&color=red&style=flat-square" alt="Profile Views">
+      <td valign="middle" width="40%" align="center">
+        <img src="https://github.com/humakrpnr13/humakrpnr13/blob/main/readme.png?raw=true" alt="Only the paranoid survive" width="280">
       </td>
     </tr>
   </tbody>
