@@ -1,31 +1,41 @@
----
-
-<table align="center">
+<table align="center" border="0" cellpadding="15" cellspacing="0">
   <tbody>
     <tr>
-      <td valign="top" width="50%">
-        <h3>📡 SECURE COMMUNICATION CHANNELS</h3>
-        **Primary Contacts:**
+      <td valign="top" width="55%">
+        <h2>🔐 CONTACT PROTOCOL</h2>
         
-        - 📧 **Email:** your.email@domain.com
-        - 💼 **LinkedIn:**
-        - 🐦 **Twitter:** 
-        - 🌐 **Portfolio:**  
+        ```bash
+        # Initialize secure connection
+        ./contact_developer.sh --method=[email|linkedin|twitter]
+        ```
         
-        **Status:** 🟢 Available for Projects 
+        **Available Channels:**
         
-        **Response Time:** Usually within 24 hours   
+        📧 **Primary:** your.email@domain.com  
+        💼 **Professional:** [LinkedIn](https://linkedin.com/in/yourprofile)  
+        🐦 **Social:** [@yourusername](https://twitter.com/yourusername)  
+        🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
         
-        **Preferred Method:** Email for professional inquiries    
+        **Current Status:**
+        ```
+        [■■■■■■■■■■] 100% AVAILABLE
+        Response Time: < 24 hours
+        Collaboration: OPEN
+        ```
         
-        ---   
+        **Interested in:**
+        - Full-stack development projects
+        - Open source contributions  
+        - Technical discussions
+        - Remote collaboration opportunities
         
-        *"The best way to find out if you can trust somebody is to trust them."*
       </td>
-      <td valign="top" width="50%" align="center">
+      <td valign="top" width="45%" align="center">
         <img src="https://github.com/humakrpnr13/humakrpnr13/blob/main/readme.png?raw=true" alt="Only the paranoid survive" width="300">
+        <br>
+        <sub><em>"Only the paranoid survive"</em></sub>
         <br><br>
-        <em>System Status: Operational</em>
+        <img src="https://komarev.com/ghpvc/?username=humakrpnr13&color=red&style=flat-square" alt="Profile Views">
       </td>
     </tr>
   </tbody>
