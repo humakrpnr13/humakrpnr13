@@ -5,7 +5,7 @@
       <br>
       <ul>
         <li><strong>Email:</strong> zhuma.krpnr@gmail.com</li>
-        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/zeynep-hüma-karapınar-451b64331">Connect with me</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/zeynep-hüma-karapınar">Connect with me</a></li>
         <li><strong>Website:</strong> Coming Soon!</li>
       </ul>
     </td>
